@@ -50,7 +50,7 @@ global.APIKeys = { // APIKey Here
 global.botname = 'H 𝙸 𝙽 𝙰 𝚃 𝙰   ꢺ ᴀ ϻ ᴀ ﹤ᴣ'
 global.premium = 'true'
 global.packname = '   ㅤㅤ   ㅤ  ㅤ   👒ʜᴀɴᴅᴄʀᴀғᴛᴇᴅ ʙʏ :                                              ㅤㅤ                                                              ㅤㅤ                𓄂⍣⃝🇳ᴇꪎꪎᴇʀ  ꢺᴀϻᴀ妥' 
-global.author = '' 
+global.author = 'Ɲᴇꪎꪎᴇʀ  ꢺᴀϻᴀ 𓆩×͜×𓆪ꪾ' 
 global.igfg = '▢ Follow on Instagram\nhttps://instagram.com/_just_an_weeb_?igshid=ZGUzMzM3NWJiOQ==\n' 
 global.dygp = 'https://chat.whatsapp.com/DF3fnIHbFxWEY3bqUAf7Is'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
